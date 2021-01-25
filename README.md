@@ -12,4 +12,4 @@ Throghout this project I could apply the four basic concepts of backend software
 
 Some URL examples:
 * GET https://my-first-spring-api-rv.herokuapp.com/api/v1/student/
- * Returns a JSON file containing a list of students.
+  * Returns a JSON file containing a list of students.
